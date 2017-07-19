@@ -1,0 +1,196 @@
+
+* {
+  font-family: 'EB Garamond', serif;;
+}
+
+h1, h2, h3, h4 {
+	margin: 0px;
+  color: #fff;
+} 
+
+a {
+  color: #fff;
+}
+
+.navbar-brand {
+	padding: 0;
+	margin-top: 41.4px;
+  font-size: 25px;
+  height: 26.61px;
+}
+
+.nav > li > a { 
+  padding: 0 29.8px 0 0;
+	margin-top: 48px;
+	}
+
+.top-bar {
+	width: 1040px;
+	margin: auto;
+} 
+
+.main-header {
+  background:url("../img/og-image.png") no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+.navbar-nav {
+  font-family: 'brandongrotesque', Arial, sans-serif;
+  font-size: 18px;
+  padding-left: 25px;
+}
+
+.top-bar .navbar .col-md-3 {
+  padding-left: 97px;
+}
+
+.nav li:last-child a {
+  padding-right: 0;
+}
+
+.navbar-default {
+  background-image: none;
+  background-color: transparent;
+  border-style: none;
+  box-shadow: none;
+  webkit-box-shadow: none;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.page-content {
+  font-size: 18px;
+}
+
+.feedback {
+  margin-top: 450px;
+  text-align: center;
+}
+
+.about_me {
+  width: 400px;
+  height: 450px;
+  background-color: #fff;
+  margin: 30px auto;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+.start_study {
+  width: 400px;
+  height: 830px;
+  background-color: #fff;
+  margin: 30px auto;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+#start_img {
+  max-width: 80px;
+  margin-top: 20px;
+}
+
+.start .container, .about .container {
+  text-align: center;
+}
+
+.about, .start, .homework, .team, .advice, .main-footer {
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#ff8825, #ffdac2, #ff8825); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#ff8825, #ffdac2, #ff8825); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#ff8825, #ffdac2, #ff8825); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#ff8825, #ffdac2, #ff8825); /* Standard syntax */
+ /* background-color: #ffcea6;*/
+}
+  
+.homework2 {
+  width: 400px;
+  height: 600px;
+  background-color: #fff;
+  margin: 30px auto;
+  border: 2px solid #000;
+  border-radius: 10px;
+}
+
+#homework_img {
+  max-width: 150px;
+  margin-top: 20px;
+}
+
+.homework .container, .advice .container {
+  text-align: center;
+}
+
+.studyhard {
+  max-width: 100px;
+}
+
+.team {
+  color: #000;
+}
+
+.episodes-title, .caption h3 a {
+  color: #000;
+}
+
+.page-header {
+  text-align: center;
+}
+
+.hidden {
+display: none;
+visibility: hidden;
+}
+
+.card_description {
+  padding: 10px;
+}
+
+.page-header {
+  border-bottom: 0px;
+}
+
+#another_thank {
+  padding: 20px;
+  font-size: 23px;
+}
+
+.thank_all {
+  text-align: center;
+}
+
+#my_advice {
+  max-width: 300px;
+  margin-top: 20px;
+}
+
+.main-footer {
+  max-height: 300px;
+  text-align: center;
+}
+
+#tahk_u {
+  margin: 130px;
+  color: #000;
+}
+
+#about_img {
+  margin-top: 30px;
+  max-width: 200px;
+}
+
+.minheight {
+  max-height: 168px;
+}
+
+.caption .member_desc {
+  height: 80px;
+  overflow: hidden;
+}
